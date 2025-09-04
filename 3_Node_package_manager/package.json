@@ -1,0 +1,24 @@
+{
+  "name": "3_node_package_manager",
+  "version": "1.0.0",
+  "main": "file.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
+
+{
+// "name": The name of your project or package. It should be lowercase and unique if you plan to publish it to npm.
+// "version": The current version of your project, following semantic versioning (major.minor.patch).
+// "main": The entry point file for your project (e.g., when someone requires your package, this file is loaded).
+// "scripts": Custom commands you can run with npm, such as npm test, npm start, etc.
+// "keywords": An array of keywords to help people find your package in the npm registry.
+// "author": The name of the package author or maintainer.
+// "license": The license type for your project (e.g., ISC, MIT, Apache-2.0).
+// "description": A short description of your project.
+// Let me know if you want to know about more advanced
+}
